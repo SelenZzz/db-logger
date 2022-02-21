@@ -1,0 +1,12 @@
+<?php
+// Connection arguments
+$servername = "localhost";
+$username = "username";
+$password = "password";
+$db = "logger";
+$logs_tbl = "logs";
+$users_tbl = "users";
+$events_tbl = "events";
+$salt = "zhgs";
+$timezone = "Asia/Vladivostok";
+$day_begin = 10;
